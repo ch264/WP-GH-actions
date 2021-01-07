@@ -5,7 +5,7 @@ You can find the full blog post here https://www.twilio.com/blog/create-wordpres
 ## Prerequisites
 
 * Your WordPress CMS has already been connected to your Gatsby App. If not, this [Youtube video](https://www.youtube.com/watch?v=DH7I1xRrbxs) will help you get started.
-* Your Gatsby App has been successfully deployed to AWS/S3 using Github Actions. At this time, Github does not provide a re-run button for Github Actions. I have written a concise tutorial on how to run GitHub Actions manually using Postman client.
+* Your Gatsby App has been successfully deployed to AWS/S3 using Github Actions. (If not you can check out this [Blog Post](https://dev.to/ara225/how-to-host-a-static-website-on-aws-with-https-and-ci-cd-33of?signin=true) by Anna Aitchison) At this time, Github does not provide a re-run button for Github Actions. I have written a concise tutorial on [how to run GitHub Actions manually using Postman client](https://medium.com/@christinavhastenrath/how-to-run-github-actions-manually-afebbe77d325).
 
 ## The Workflow
 
