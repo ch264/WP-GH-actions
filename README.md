@@ -37,4 +37,4 @@ This is the admin page of the 'Deploy to GitHub Actions' plugin. You can add/del
 
 Once you hit either of the buttons, you will receive a success message that your GitHub Action is running.
 
-
+![Deploy to GitHub Actions Admin Page on WordPress success message](assets/plugin-admin-screenshot-2.png)
