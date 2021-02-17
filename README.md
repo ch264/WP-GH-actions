@@ -34,3 +34,7 @@ For all steps on how to setup a Wordpress/GitHub Action integration with this pl
 This is the admin page of the 'Deploy to GitHub Actions' plugin. You can add/delete buttons to deploy to your GitHub branches if you wish. Please remember to download the plugin and insert your GitHub details before zipping it back up and uploading the plugin.
 
 ![Deploy to GitHub Actions Admin Page on WordPress](assets/plugin-admin-screenshot.png)
+
+Once you hit either of the buttons, you will receive a success message that your GitHub Action is running.
+
+
