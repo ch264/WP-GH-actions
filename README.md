@@ -6,8 +6,6 @@ Tested up to v5.6.1
 
 A WordPress Plugin to push new pages or updates from your headless Wordpress CMS to a Frontend, such as a Gatsby App on AWS via GitHub Actions.
 
-You can find the full Twilio blog post [here](https://www.twilio.com/blog/create-wordpress-plugin-rebuild-gatsby-app-aws-github-actions)
-
 ## Prerequisites
 
 * Your WordPress CMS has already been connected to your Gatsby App. If not, this [Youtube video](https://www.youtube.com/watch?v=DH7I1xRrbxs) will help you get started.
@@ -33,4 +31,4 @@ For all steps on how to setup a Wordpress/GitHub Action integration with this pl
 
 ## Screenshots
 
-![Deploy to GitHub Actions Admin Page on WordPress]('./assets/plugin-admin-screenshot.png')
+![Deploy to GitHub Actions Admin Page on WordPress](assets/plugin-admin-screenshot.png)
