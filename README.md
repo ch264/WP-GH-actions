@@ -33,4 +33,4 @@ For all steps on how to setup a Wordpress/GitHub Action integration with this pl
 
 ## Screenshots
 
-![Deploy to GitHub Actions Admin Page on WordPress]('assets/plugin-admin-screenshot.png')
+![Deploy to GitHub Actions Admin Page on WordPress]('./assets/plugin-admin-screenshot.png')
