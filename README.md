@@ -1,6 +1,12 @@
-# A WordPress Plugin to Rebuild Your Gatsby App on AWS using GitHub Actions
+# Deploy to GitHub Actions
 
-You can find the full blog post here https://www.twilio.com/blog/create-wordpress-plugin-rebuild-gatsby-app-aws-github-actions
+Tested up to v5.6.1
+
+## Deploy to GitHub Actions description
+
+A WordPress Plugin to push new pages or updates from your headless Wordpress CMS to a Frontend, such as a Gatsby App on AWS via GitHub Actions.
+
+You can find the full Twilio blog post [here](https://www.twilio.com/blog/create-wordpress-plugin-rebuild-gatsby-app-aws-github-actions)
 
 ## Prerequisites
 
@@ -24,3 +30,7 @@ Here is what you need to do in order to get this plugin to work
 * Upload the folder and activate the plugin
 
 For all steps on how to setup a Wordpress/GitHub Action integration with this plugin please follow my [Twilio Tutorial](https://www.twilio.com/blog/create-wordpress-plugin-rebuild-gatsby-app-aws-github-actions)
+
+## Screenshots
+
+![Deploy to GitHub Actions Admin Page on WordPress]('assets/plugin-admin-screenshot.png')
