@@ -3,6 +3,9 @@
 Plugin Name: Deploy to GitHub Actions
 Description: A plugin to push updates from WordPress CMS to a headless Frontend via GitHub Actions
 Author: Christina Hastenrath
+Author URI: https://github.com/ch264
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Version: 1.0
 */
 add_action('admin_menu', 'test_plugin_setup_menu');
