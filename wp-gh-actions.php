@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Deploy to GitHub Actions
-Description: A deploy plugin to rerun github actions
+Description: A plugin to push updates from WordPress CMS to a headless Frontend via GitHubub Actions
 Author: Christina Hastenrath
 Version: 1.0
 */
