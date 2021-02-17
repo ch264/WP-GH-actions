@@ -1,6 +1,6 @@
 # Deploy to GitHub Actions
 
-Tested up to v5.6.1
+Tested up to WordPress v5.6.1
 
 ## Deploy to GitHub Actions description
 
