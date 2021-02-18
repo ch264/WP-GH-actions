@@ -1,15 +1,16 @@
-# Deploy headless Frontend
-
-Tested up to WordPress v5.6.1
-
-## License
-
+=== Deploy headless Frontend ===
+Contributors: https://profiles.wordpress.org/ch264/
+Tags: headless, Gatsbyjs, GitHub Actions
+Requires at least: 4.7
+Tested up to: 5.6.1
+Stable tag: 4.3
+Requires PHP: 7.0
 License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-
-## Description
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 A WordPress Plugin to push new pages or updates from your headless WordPress CMS to a Frontend, such as a Gatsby App on AWS via GitHub Actions.
+
+== Description ==
 
 ## Prerequisites
 
@@ -33,8 +34,7 @@ Here is what you need to do in order to get this plugin to work
 * Upload the folder and activate the plugin
 
 For all steps on how to setup a WordPress/GitHub Action integration with this plugin please follow my [Twilio Tutorial](https://www.twilio.com/blog/create-wordpress-plugin-rebuild-gatsby-app-aws-github-actions)
-
-## Screenshots
+== Screenshots ==
 
 This is the admin page of the 'Deploy to GitHub Actions' plugin. You can add/delete buttons to deploy to your GitHub branches if you wish. Please remember to download the plugin and insert your GitHub details before zipping it back up and uploading the plugin.
 
@@ -43,3 +43,7 @@ This is the admin page of the 'Deploy to GitHub Actions' plugin. You can add/del
 Once you hit either of the buttons, you will receive a success message that your GitHub Action is running.
 
 ![Deploy to GitHub Actions Admin Page on WordPress success message](assets/plugin-admin-screenshot-2.png)
+
+== Changelog ==
+
+= 1.0 =
