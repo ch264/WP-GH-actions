@@ -2,7 +2,12 @@
 
 Tested up to WordPress v5.6.1
 
-## Deploy headless Frontend description
+## License
+
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+## Description
 
 A WordPress Plugin to push new pages or updates from your headless WordPress CMS to a Frontend, such as a Gatsby App on AWS via GitHub Actions.
 
