@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Deploy to GitHub Actions
+Plugin Name: Deploy headless Frontend
 Description: A plugin to push updates from WordPress CMS to a headless Frontend via GitHub Actions
 Author: Christina Hastenrath
 Author URI: https://github.com/ch264
